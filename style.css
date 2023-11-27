@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 50px;
+}
+form {
+    margin-bottom: 20px;
+}
+input[type="number"] {
+    padding: 5px;
+}
+input[type="submit"] {
+    padding: 5px 15px;
+    background-color: #007bff;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+.message {
+    font-weight: bold;
+}
